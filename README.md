@@ -61,7 +61,7 @@ This project analyzes flight delay data in the United States, offering insights 
 
 ## GitHub Pages  
 The project, along with the Python scripts, data sources, and report documentation, is archived on a GitHub Page.  
-**Link**: [Interactive Flight Delay Visualization](https://yourusername.github.io/Flight-Delay-Visualization/)  
+**Link**: (https://github.com/fflowerj/Flight-Delay-Visualization)
 
 ---
 
